@@ -1,0 +1,15 @@
+class
+ create user class - employee,affliate, customer staus
+bill Class- toalAmount , grocery, dicountList
+DiscountClass - amount
+-----------------------------------------------------
+DiscountCalculator - calculate the bills
+user == employee---> 30% dicnt
+user == affliate---> 10%
+user==cumer> 2years ----> 5%
+every 100 ----> aplly 5 discount
+
+----------------------------------------------------------
+calculate
+ net payable amount = totalBillAmount - totalDiscountAmountisEmployee
+
